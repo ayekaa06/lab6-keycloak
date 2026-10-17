@@ -27,3 +27,7 @@ Screenshots of the configuration and token verification will be added to the scr
 
 ## Video Demonstration
 A demonstration video will be added or linked here after recording.
+
+## Video Demonstration
+
+[Watch Lab 6 Demo](https://drive.google.com/file/d/1SaRKGbw9dR7Knte3gWEjljPDhlN-hlKn/view?usp=share_link)
